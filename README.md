@@ -12,7 +12,7 @@ This is the first public release of APSETSCR.
 ## Usage
 
 - `APSETSCR set <cols> <rows> <buffer>`
-- `APSETSCR max <buffe>`
+- `APSETSCR max <buffer>`
 - `APSETSCR info`
 
 ---
