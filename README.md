@@ -36,7 +36,7 @@ APSETSCR is distributed as plain Batch source code and is signed
 **Size:**<br>
 51 288 bytes<br>
 **SHA-256**:<br>
-<br>
+0e8535ba1d1ff66ce9cffd5ef5d4a32890952a7326a0ec0c2b3d8ad8925e323b<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
