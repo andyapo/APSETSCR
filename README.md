@@ -11,8 +11,8 @@ This is the first public release of APSETSCR.
 
 ## Usage
 
-- APSETSCR set <C> <R> <B>
-- APSETSCR max [B]
+- APSETSCR set C R B
+- APSETSCR max <<B>>
 - APSETSCR info
 
 ---
