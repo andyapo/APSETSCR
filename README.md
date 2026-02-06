@@ -25,7 +25,7 @@ size, buffer, position and get basic info about it's dimensions and colors.
 
 ## Security Notice
 
-APSETSCR is distributed as plain Batch source code and is signed
+APSETSCR is distributed as freeware and is signed
 
 ---
 
