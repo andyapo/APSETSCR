@@ -33,9 +33,9 @@ APSETSCR is distributed as freeware and is signed
 
 ☝️To ensure the file has not been tampered with, verify its size and SHA-265 cheksum.<br>
 **Size:**<br>
-52 312 bytes<br>
+51 960 bytes<br>
 **SHA-256**:<br>
-127163bd69a40077fa61db02ac2d99ba763b4833970ae12c50004b4eb48c58bc<br>
+9a81c43184a27b0c2ae1fc00a5da622f6be8a1607778c5d93c7699db79691ad1<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
