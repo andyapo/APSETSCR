@@ -1,4 +1,11 @@
 # APSETSCR
+
+![Platform](https://img.shields.io/badge/Windows-blue)
+![Release](https://img.shields.io/github/v/release/andyapo/APSETSCR)
+![License](https://img.shields.io/github/license/andyapo/APSETSCR)
+![Downloads](https://img.shields.io/github/downloads/andyapo/APSETSCR/total)
+![Stars](https://img.shields.io/github/stars/andyapo/APSETSCR)
+
 **Simple CMD window managment utility**
 ---------------------------------
 
