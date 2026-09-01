@@ -10,7 +10,7 @@
 ---------------------------------
 
 APSETSCR is a small Command line utility which is able to quickly set window
-size, buffer, position and get basic info about it's dimensions and colors.
+size, buffer, position and get basic info about its dimensions and colors.
 
 ---
 
