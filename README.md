@@ -20,6 +20,7 @@ size, buffer, position and get basic info about it's dimensions and colors.
 - `APSETSCR --set-position [x<winx>|y<winy>]`
 - `APSETSCR --maximize <buffer>`
 - `APSETSCR --info`
+- `APSETSCR --display-info`
 
 ---
 
@@ -42,7 +43,7 @@ APSETSCR is distributed as freeware and is signed
 **Size:**<br>
 51 960 bytes<br>
 **SHA-256**:<br>
-fb51b04e3377e5cbf7cc57de967ed5fc0847284392eb53e10fee1f03cc445507<br>
+180d6e3a15706e3bbaa316eb3f5e6254b72942cacd17741c1b733c23a09b7c35<br>
 
 To verify SHA-256, please run:<br>
 **Command Prompt**:<br>
